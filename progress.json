@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T07:58:14.447Z",
+  "generated_at": "2026-09-16T13:32:11.894Z",
   "items": {
     "problem:1009": {
       "kind": "problem",
@@ -26,6 +26,19 @@
       "last_pushed_at": "2026-09-15T07:58:13.749Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:1233": {
+      "kind": "problem",
+      "id": "1233",
+      "title": "Apply a 2D Convolution",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1233",
+      "path": "problems/1233-apply-a-2d-convolution",
+      "first_solved_at": "2026-09-16T13:32:08.651Z",
+      "last_pushed_at": "2026-09-16T13:32:08.651Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
