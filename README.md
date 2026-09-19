@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**5** solved · 4 problems · 1 labs · 0 math
+**6** solved · 5 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Apply a 2D Convolution](https://www.deep-ml.com/problems/1233) | medium | 2026-09-16 | [solution](problems/1233-apply-a-2d-convolution) |
 | [Count Trainable Parameters with Weight Tying in a GPT Model](https://www.deep-ml.com/problems/1009) | medium | 2026-09-15 | [solution](problems/1009-count-trainable-parameters-with-weight-tying-in-a-gpt-model) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-09-18 | [solution](problems/0018-implement-k-fold-cross-validation) |
+| [Pairwise Preference Judge for LLM Comparison](https://www.deep-ml.com/problems/323) | medium | 2026-09-19 | [solution](problems/0323-pairwise-preference-judge-for-llm-comparison) |
 
 ## Labs
 
